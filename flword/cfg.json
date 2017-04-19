@@ -1,0 +1,7 @@
+{
+  "dsn": "username:password@(ip:port)/dbname?charset=utf8",
+  "addr": "ip:port",
+  "interval": 10,
+  "file": "{\"filename\":\"logs/monitor.log\"}",
+  "smtp": "{\"sendTos\":[\"邮箱地址\"],\"subject\":\"主题\",\"level\":3,\"username\":\"\",\"password\":\"\",\"host\":\"\",\"fromAddress\":\"\"}"
+}

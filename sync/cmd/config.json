@@ -1,0 +1,13 @@
+{
+  "mysql": {
+    "dsn": "username:password@(ip:port)/dbname?charset=utf8"
+  },
+  "redis": {
+    "addr": "ip:port",
+    "password": "",
+    "requiredPW": false,
+    "db": 1,
+    "poolSize": 100
+  },
+  "interval": 60
+}

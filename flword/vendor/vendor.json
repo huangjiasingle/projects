@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "t1at/w0nRE8MoS5UJShyzKsqzBg=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "b635af5a8cd798ae9ede1adb6f9472fa87361168",
+			"revisionTime": "2016-10-30T02:48:15Z"
+		},
+		{
+			"checksumSHA1": "xDl6hX+Mg+d8L8uwfhqaVkPT2Wc=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "8f6c67f0228a4a6a962008d6c3d1e694e4532e71",
+			"revisionTime": "2016-11-09T07:18:33Z"
+		}
+	],
+	"rootPath": "flwords"
+}
